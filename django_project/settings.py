@@ -29,7 +29,7 @@ DEBUG = (os.environ.get('BLOG_DEBUG') == 'True')
 
 ALLOWED_HOSTS = ['dnpaul97-blog.herokuapp.com']
 
-#comment just to update
+#comment just to update bog app
 # Application definition
 
 INSTALLED_APPS = [
